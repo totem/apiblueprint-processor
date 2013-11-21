@@ -2,10 +2,10 @@
 
 This document is used to test the preprocessor.
 
-| Content Type | Schema    |
-|--------------|-----------|
-| test-ref     | test.json |
-| missing-ref  | BAD.json  |
+| Content Type | Schema       |
+|--------------|--------------|
+| test-ref     | example.json |
+| missing-ref  | BAD.json     |
 
 # My Endpoint [/end/]
 

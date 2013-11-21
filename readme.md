@@ -10,7 +10,7 @@ It uses a table declared at the top of the file to lookup the filename that poin
 
 Download or copy the python script somewhere in your path.
 
-    sudo curl -o /usr/local/bin/api-processor.py http://XYZ
+    sudo curl -o /usr/local/bin/api-processor.py https://raw.github.com/totem/apiblueprint-processor/master/api-processor.py
     sudo chmod +x /usr/local/bin/api-processor.py
 
 ## Usage
@@ -18,3 +18,4 @@ Download or copy the python script somewhere in your path.
 Run the script with the filename to operate on.
 
     api-processor.py example.md
+
